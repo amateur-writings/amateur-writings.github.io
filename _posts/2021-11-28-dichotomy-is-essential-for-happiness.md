@@ -5,10 +5,6 @@ date: 2021-11-28 11:04:00
 ---
 Having a daily plate of good and nutritious food might not be something special or worth celebrating for the financially stable but it would be the greatest dream for the poor. When things are the same every day, we wouldn't realize how things could be so different; the norm we are accustomed to is actually a blessing, but we're too habituated to notice. The same goes for happiness: if all the bad days in your life are wiped out from your memory, it's inevitable that the degree of happiness during your good days will not be as pronounced.
 
-&nbsp;
-
-![description yo](/uploads/paper.png "a title!"){: width="225" height="225"}
-
 The two ends of a polar form a line, while having no two opposite ends would make it a dot. I'd like to think of life as an ECG, where ups and downs would make it interesting, signifying a person is living. Conversely, having a same dot extending across time forms a monotonous line: dull and lifeless.
 
 ![ecg](https://i.imgur.com/L2nZaLk.png)
