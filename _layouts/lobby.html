@@ -32,13 +32,13 @@
 
 		<!-- Header -->
 		<header id="header">
-			<a href="index.html" class="logo">AMATEUR WRITINGS</a>
+			<a href="/" class="logo">AMATEUR WRITINGS</a>
 		</header>
 
 		<!-- Nav -->
 		<nav id="nav">
 			<ul class="links">
-				<li class="active"><a href="index.html">Home</a></li>
+				<li class="active"><a href="/">Home</a></li>
 				<li><a href="/about">About Me</a></li>
 			</ul>
 			<ul class="icons">
@@ -52,23 +52,22 @@
 
 			<!-- Featured Post -->
 			<article class="post featured">
+				{% assign first_post = site.posts | first %}
 				<header class="major">
-					<span class="date">April 25, 2017</span>
-					<h2><a href="#">And this is a<br />
-							massive headline</a></h2>
-					<p>Aenean ornare velit lacus varius enim ullamcorper proin aliquam<br />
-						facilisis ante sed etiam magna interdum congue. Lorem ipsum dolor<br />
-						amet nullam sed etiam veroeros.</p>
+					<span class="date">{{ first_post.date | date: "%B %d, %Y" }}</span>
+					<h2><a href="{{ first_post.url }}">{{ first_post.title }}</a></h2>
+					<p>{{ first_post.excerpt | truncatewords: 50 }}</p>
 				</header>
-				<a href="#" class="image main"><img src="assets/images/pic01.jpg" alt="" /></a>
 				<ul class="actions special">
-					<li><a href="#" class="button large">Full Story</a></li>
+					<li><a href="{{ first_post.url }}" class="button large">Full Story</a></li>
 				</ul>
 			</article>
 
 			<!-- Posts -->
 			<section class="posts">
-				{% for post in site.posts %}
+				{% assign num_rest = site.posts.size-1 %}
+				{% assign without_first = site.posts | shift %}
+				{% for post in without_first %}
 				<article>
 					<header>
 						<span class="date">{{ post.date | date: "%B %d, %Y" }}</span>
@@ -76,7 +75,7 @@
 							{{ post.title }}
 						</a></h2>
 					</header>
-					<p>{{ post.content | markdownify | truncatewords: 50 }}</p>
+					<p>{{ post.excerpt | truncatewords: 50 }}</p>
 					<ul class="actions special">
 						<li><a href="{{ post.url }}" class="button">Full Story</a></li>
 					</ul>
