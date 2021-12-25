@@ -76,24 +76,13 @@
 							{{ post.title }}
 						</a></h2>
 					</header>
-					<p>{{ post.excerpt }}</p>
+					<p>{{ post.content | markdownify | truncatewords: 50 }}</p>
 					<ul class="actions special">
 						<li><a href="{{ post.url }}" class="button">Full Story</a></li>
 					</ul>
 				</article>
 				{% endfor %}
 			</section>
-
-			<!-- Footer -->
-			<footer>
-				<div class="pagination">
-					<!--<a href="#" class="previous">Prev</a>-->
-					<a href="#" class="page active">1</a>
-					<a href="#" class="page">2</a>
-					<span class="extra">&hellip;</span>
-					<a href="#" class="next">Next</a>
-				</div>
-			</footer>
 
 		</div>
 
