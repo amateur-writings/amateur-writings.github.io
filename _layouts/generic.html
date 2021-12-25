@@ -5,87 +5,123 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
 <html>
-	<head>
-		<title>{{ page.title }}</title>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" href="assets/css/main.css" />
-		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
-		<style>
-			img.center{
-				display: block;
-				margin-left: auto;
-				margin-right: auto;
-			   }
-			   div.g {
-				   font-size: 18px;
-				   text-align: center;
-				   font-family: 'Rubik', sans-serif;
-			   }
-		   </style>
-	</head>
-	<body class="is-preload">
 
-		<!-- Wrapper -->
-			<div id="wrapper">
+<head>
+	<title>{{ page.title }}</title>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+	<link rel="stylesheet" href="assets/css/main.css" />
+	<noscript>
+		<link rel="stylesheet" href="assets/css/noscript.css" />
+	</noscript>
+	<style>
+		img {
+			display: block;
+			margin-left: auto;
+			margin-right: auto;
+		}
 
-				<!-- Header -->
-					<header id="header">
-						<a href="index.html" class="logo">Amateur Writings</a>
-					</header>
+		div.g {
+			font-size: 18px;
+			text-align: center;
+			font-family: 'Rubik', sans-serif;
+		}
+	</style>
+</head>
 
-				<!-- Nav -->
-					<nav id="nav">
-						<ul class="links">
-							<li><a href="index.html">Home</a></li>
-							<li><a href="/about">About Me</a></li>
-						</ul>
-						<ul class="icons">
-							<li><a href="https://www.instagram.com/ryoukeydingme/" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
-						</ul>
-					</nav>
+<body class="is-preload">
 
-				<!-- Main -->
-					<div id="main">
+	<!-- Wrapper -->
+	<div id="wrapper">
 
-						<!-- Post -->
-							<section class="post">
-								<header class="major">
-									<span class="date">April 25, 2017</span>
-									<h1>{{ page.title }}</h1>
-								</header>
-								{{ page.content }}
+		<!-- Header -->
+		<header id="header">
+			<a href="index.html" class="logo">Amateur Writings</a>
+		</header>
+
+		<!-- Nav -->
+		<nav id="nav">
+			<ul class="links">
+				<li><a href="index.html">Home</a></li>
+				<li><a href="/about">About Me</a></li>
+			</ul>
+			<ul class="icons">
+				<li><a href="https://www.instagram.com/ryoukeydingme/" class="icon brands fa-instagram"><span
+							class="label">Instagram</span></a></li>
+			</ul>
+		</nav>
+
+		<!-- Main -->
+		<div id="main">
+
+			<!-- Post -->
+			<section class="post">
+				<header class="major">
+					<span class="date">{{ page.date | date: "%B %d, %Y" }}</span>
+					<h1>{{ page.title }}</h1>
+				</header>
+				<div class="content">
+					{{ page.content }}
+					<hr>
+					<p>Any comments or feedback (or you just want to connect) can be sent <a
+							href=" https://telegram.me/youkeyong">here</a>. </p>
+					<h4> Thanks for reading. Have a great day, see you soon.</h4>
+					<p></p>
+				</div>
+
+
+				<footer class="post-footer">
+
+					<div class="authors">
+						<a class="author-box" href="/author/yuqi/">
+							<img class="author-profile-image"
+								src="https://yuqi.ghost.io/content/images/2021/09/IMG_20210417_110649.jpg" alt="Yu Qi">
+							<section class="author-box-content">
+								<div class="author-box-label">Author</div>
+								<h5 class="author-box-name">Yu Qi</h5>
+								<p>early 20s, trying to be less dumb and broke each day by writing weekly blogs in my
+									second language </p>
 							</section>
-
+						</a>
 					</div>
 
-				<!-- Footer -->
-					<footer id="footer">
-						<section class="split contact">
-							<section>
-								<h3>Social</h3>
-								<ul class="icons alt">
-									<li><a href="https://www.instagram.com/ryoukeydingme/" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>
-								</ul>
-							</section>
-						</section>
-					</footer>
+				</footer>
+			</section>
 
-				<!-- Copyright -->
-					<div id="copyright">
-						<ul><li>&copy; Amateur Writings</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li></ul>
-					</div>
+		</div>
 
-			</div>
+		<!-- Footer -->
+		<footer id="footer">
+			<section class="split contact">
+				<section>
+					<h3>Social</h3>
+					<ul class="icons alt">
+						<li><a href="https://www.instagram.com/ryoukeydingme/"
+								class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>
+					</ul>
+				</section>
+			</section>
+		</footer>
 
-		<!-- Scripts -->
-			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/jquery.scrollex.min.js"></script>
-			<script src="assets/js/jquery.scrolly.min.js"></script>
-			<script src="assets/js/browser.min.js"></script>
-			<script src="assets/js/breakpoints.min.js"></script>
-			<script src="assets/js/util.js"></script>
-			<script src="assets/js/main.js"></script>
+		<!-- Copyright -->
+		<div id="copyright">
+			<ul>
+				<li>&copy; Amateur Writings</li>
+				<li>Design: <a href="https://html5up.net">HTML5 UP</a></li>
+			</ul>
+		</div>
 
-	</body>
+	</div>
+
+	<!-- Scripts -->
+	<script src="assets/js/jquery.min.js"></script>
+	<script src="assets/js/jquery.scrollex.min.js"></script>
+	<script src="assets/js/jquery.scrolly.min.js"></script>
+	<script src="assets/js/browser.min.js"></script>
+	<script src="assets/js/breakpoints.min.js"></script>
+	<script src="assets/js/util.js"></script>
+	<script src="assets/js/main.js"></script>
+
+</body>
+
 </html>
