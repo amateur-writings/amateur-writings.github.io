@@ -57,8 +57,18 @@
 				<header class="major">
 					<span class="date">{{ first_post.date | date: "%B %d, %Y" }}</span>
 					<h2><a href="{{ first_post.url }}">{{ first_post.title }}</a></h2>
-					<p>{{ first_post.excerpt | truncatewords: 50 }}</p>
+					{% assign preprocessed_content=first_post.content | replace: '<p>', '__p__' %}
+						{% assign preprocessed_content=preprocessed_content | replace: '<br>', '__br__' %}
+						{% assign preprocessed_content=preprocessed_content | replace: '</p>', '__/p__' %}
+						
+						{% assign truncated_content=preprocessed_content | strip_html | truncatewords:50 %}
+						
+						{% assign cleaned_content=truncated_content | replace: '__p__', '<p>' %}
+						{% assign cleaned_content=cleaned_content | replace: '__br__', '<br>' %}
+						{% assign cleaned_content=cleaned_content | replace: '__/p__', '</p>' %}
+					
 				</header>
+				<p>{{ cleaned_content }}</p>
 				<ul class="actions special">
 					<li><a href="{{ first_post.url }}" class="button large">Full Story</a></li>
 				</ul>
@@ -76,7 +86,16 @@
 							{{ post.title }}
 						</a></h2>
 					</header>
-					<p>{{ post.excerpt | truncatewords: 50 }}</p>
+					{% assign preprocessed_content=post.content | replace: '<p>', '__p__' %}
+					{% assign preprocessed_content=preprocessed_content | replace: '<br>', '^^br^^' %}
+					{% assign preprocessed_content=preprocessed_content | replace: '</p>', '__/p__' %}
+					
+					{% assign truncated_content=preprocessed_content | strip_html | truncatewords:50 %}
+					
+					{% assign cleaned_content=truncated_content | replace: '__p__', '<p>' %}
+					{% assign cleaned_content=cleaned_content | replace: '^^br^^', '<br>' %}
+					{% assign cleaned_content=cleaned_content | replace: '__/p__', '</p>' %}
+					<p>{{ cleaned_content }}</p>
 					<ul class="actions special">
 						<li><a href="{{ post.url }}" class="button">Full Story</a></li>
 					</ul>
