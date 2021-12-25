@@ -11,12 +11,7 @@ Having a daily plate of good and nutritious food might not be something special 
 
 The two ends of a polar form a line, while having no two opposite ends would make it a dot. I'd like to think of life as an ECG, where ups and downs would make it interesting, signifying a person is living. Conversely, having a same dot extending across time forms a monotonous line: dull and lifeless.
 
-<<<<<<< HEAD
 ![ecg](https://i.imgur.com/L2nZaLk.png)
-=======
-![ecg](https://i.imgur.com/L2nZaLk.png){: .center}
-
->>>>>>> 8a644983fb8f40485118400a629607c6e9349ed3
 <div class="g">ECG</div>
 
 I once wished to be emotionless. How nice it would be to spare myself from dreadful pain and suffering this world seems to never run out of, I won't be sad ever again. But at what cost? I would not be able to experience the cliche thing everyone preaches about which is called: love, or the warm, fuzzy feeling when someone holds my hand, or the way I'll be feeling like the main character of a story when the evening sun glows on my face after a great day.
