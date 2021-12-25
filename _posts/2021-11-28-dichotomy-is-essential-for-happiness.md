@@ -7,7 +7,7 @@ Having a daily plate of good and nutritious food might not be something special 
 
 &nbsp;
 
-![](/uploads/paper.png){: width="225" height="225"}
+![description yo](/uploads/paper.png "a title!"){: width="225" height="225"}
 
 The two ends of a polar form a line, while having no two opposite ends would make it a dot. I'd like to think of life as an ECG, where ups and downs would make it interesting, signifying a person is living. Conversely, having a same dot extending across time forms a monotonous line: dull and lifeless.
 
