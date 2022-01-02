@@ -24,3 +24,5 @@ I know it's trite but I need to say it again just for the sake of reminding futu
 jealousy, jealousy by Olivia Rodrigo&nbsp;
 
 Of course people have felt jealous before, who doesn't?&nbsp;
+
+mix with teenage angst, a friendly push for me to better, life is unfair, need to work for the things i want, the weird piano at the bridge is genius, silver medal approach&nbsp;
