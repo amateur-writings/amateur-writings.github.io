@@ -27,8 +27,8 @@ Of course people have felt jealous before, who doesn't? The debut studio album, 
 
 > And I see everyone gettin' all the things I want<br>And I'm happy for them, but then again, I'm not<br>Just cool vintage clothes and vacation photos<br>I can't stand it, oh, God, I sound crazy
 
-Life&nbsp;*is*&nbsp;unfair even in this supposed meritocratic society. Despite being a whinging song, it also serves as a friendly prompt for me to push harder in order to achieve what I desire in life while being grateful for what I have. Definitely need to remind myself more&nbsp;
+Life&nbsp;*is*&nbsp;unfair even in this supposed meritocratic society. Despite being a whinging song, it also serves as a friendly prompt for me to push harder in order to achieve what I desire in life while being grateful for what I have. Definitely need to remind myself to implement the bronze medalist approach more often. (Refer to this post for [the bronze medalist approach](/why-do-we-dislike-people-who-are-better-than-us){: target="_blank" rel="noopener"})&nbsp;
 
 I also want to point out how remarkable the bridge of this song is\! The deliberate progressively dissonant piano at the background of the bridge is&nbsp;**genius**, it accentuates the craziness of how the song sounds hence making me like it even more.&nbsp;
 
-mix with teenage angst, a friendly push for me to better, life is unfair, need to work for the things i want, the weird piano at the bridge is genius, silver medal approach&nbsp;
+&nbsp;
