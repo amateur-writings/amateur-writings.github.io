@@ -5,7 +5,9 @@ date: 2022-01-02 00:00:00
 ---
 It's the time of the year again: reviewing the past year as well as making a new list of new year's resolution. For me, things have been … "calmer" this year. Compared to 2019 and 2020, 2021 was still eventful but less dramatic and soul-stirring.
 
-Inspired by this [blog post](https://mitadmissions.org/blogs/entry/on-success-meaning-and-time/){: target="_blank" rel="noopener"}, I'd like to recap 2021 into 3 sessions with 3 of my most-listened songs, dissecting the correlation between the lyrics and what I feel about life during this past 365 days around the sun.&nbsp;
+Inspired by this [blog post](https://mitadmissions.org/blogs/entry/on-success-meaning-and-time/){: target="_blank" rel="noopener"}, I'd like to recap 2021 into 3 sessions with 3 of my most-listened songs, dissecting the correlation between the lyrics and what I feel about life during this past 365 days around the sun.
+
+![2021 songs](/uploads/2021.png){: width="400" height="400"}&nbsp;
 
 Solar Power by Lorde
 
