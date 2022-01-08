@@ -32,3 +32,7 @@ Life&nbsp;*is*&nbsp;unfair even in this supposed meritocratic society. Despite b
 I also want to point out how remarkable the bridge of this song is\! The deliberate progressively dissonant piano at the background of the bridge is&nbsp;**genius**, it accentuates the craziness of how the song sounds hence making me like it even more.&nbsp;
 
 &nbsp;
+
+Any comments or feedback (or you just want to connect) can be sent [here](https://telegram.me/youkeyong){: target="_blank" rel="noopener"}.&nbsp;
+
+**THANKS FOR READING. HAVE A GREAT DAY, SEE YOU SOON.**
