@@ -15,7 +15,7 @@ There must be a reason why the title track of Lorde's new album, the song that r
 
 ### The Same by Ashe
 
-As humans, we tend to try hard in holding on to everything: money, power, fame, loved ones, happiness, youth while trying to consciously or subconsciously ignore the impermanent nature of it. *Ah, how I wish this could last forever,&nbsp;*a loitering silent monologue that is always there when I'm experiencing something special. At the start of 2021, I lost my newly adopted kitten after 3 months of pouring all my love onto her. I was heartbroken despite our brief time together but I guess this is our fate,&nbsp;*c'est la vie.&nbsp;*
+As humans, we tend to hold on to everything: money, power, fame, loved ones, happiness, youth while trying to consciously or subconsciously ignore the impermanent nature of it. *Ah, how I wish this could last forever,&nbsp;*a loitering silent monologue that is always there when I'm experiencing something special. At the start of 2021, I lost my newly adopted kitten after 3 months of pouring all my love onto her. I was heartbroken despite our brief time together but I guess this is our fate,&nbsp;*c'est la vie.&nbsp;*
 
 > Oh, I wish that you were still here
 >
@@ -47,6 +47,6 @@ Of course people have felt jealous before, who doesn't? The debut studio album, 
 >
 > I can't stand it, oh, God, I sound crazy
 
-Life&nbsp;*is*&nbsp;unfair even in this supposed meritocratic society. Despite being a whinging song, it also serves as a friendly prompt for me to push harder in order to achieve what I desire in life while being grateful for what I have. Definitely need to remind myself to implement the bronze medalist approach more often. (Refer to this post for [the bronze medalist approach](/why-do-we-dislike-people-who-are-better-than-us){: target="_blank" rel="noopener"})&nbsp;
+Life&nbsp;*is*&nbsp;unfair even in this supposed meritocratic society. Despite being a whinging song, it also serves as a friendly prompt for me to push harder in order to achieve what I desire in life while being grateful for what I have. Definitely need to remind myself to implement the bronze medalist approach more often. (Refer to [this post for](__notset__)[the bronze medalist approach](/why-do-we-dislike-people-who-are-better-than-us){: target="_blank" rel="noopener"})&nbsp;
 
 I also want to point out how remarkable the bridge of this song is\! The deliberate progressively dissonant piano at the background of the bridge is&nbsp;**genius**, it accentuates the craziness of how the song sounds hence making me like it even more.&nbsp;
