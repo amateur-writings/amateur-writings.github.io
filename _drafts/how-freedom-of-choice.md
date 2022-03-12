@@ -13,9 +13,11 @@ Nothing feels better than having the power and freedom to choose because we, as 
 
 1\. Nova effect
 
+This story of a dog (check out the video version [here](https://www.youtube.com/watch?v=oGVhOWqsBWM){: target="_blank" rel="noopener"}) tells us that there are no experiences that are inherently good or bad. An event that seems to be a positive one may turn bad and in converse, a negative experience might not be as awful as it seems for it may be a prelude to luck.&nbsp;
+
 2\. Action before Perfection
 
-&nbsp;
+Sometimes it's just wiser to go for&nbsp;*good enough*. Start with a good enough plan, a good enough draft, a good enough choice, then keep on improving from there. Not everyone can (maximize and satisfier)​
 
 Harvard students to choose the best picture, the ones who did not have the choice to choose actually was happier
 
