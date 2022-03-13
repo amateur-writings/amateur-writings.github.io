@@ -17,7 +17,7 @@ This story of a dog (check out the story in video form&nbsp;[here](https://www.y
 
 2\. Action before Perfection
 
-Sometimes it's just wiser to go for&nbsp;*good enough*. Start with a good enough plan, a good enough draft, a good enough choice, then keep on improving from there. Herbert A. Simon theorized two styles of decision making, namely maximizers and satisficers. Maximizers, like perfectionists, tend to emphasize on picking the choice that is perfect in all aspects. Contrarily, satisficers settle on acceptable decisions&nbsp;
+Sometimes it's just wiser to go for&nbsp;*good enough*. Start with a good enough plan, a good enough draft, a good enough choice, then keep on improving from there. Herbert A. Simon theorized two styles of decision making, namely maximizers and satisficers. Maximizers, like perfectionists, tend to emphasize on picking the choice that is perfect in all aspects. Contrarily, satisficers settle on acceptable decisions and are happier than maximizers even after&nbsp;
 
 Harvard students to choose the best picture, the ones who did not have the choice to choose actually was happier
 
