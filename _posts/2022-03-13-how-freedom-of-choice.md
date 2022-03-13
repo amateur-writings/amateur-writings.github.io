@@ -1,7 +1,7 @@
 ---
 layout: generic
-title: 'How freedom of choice '
-date: 2021-09-04 00:00:00
+title: More choices ≠ More happiness
+date: 2022-03-13 00:00:00
 ---
 Life is essentially about making decisions every day, what time to wake up, which clothes to wear, who to meet etc. Trivial choices usually do not take up that much of our mental space but when we talk about choices that are pivotal in determining how our life might turn out to be, we can't help but mull over: "Is this the right choice?" "will I regret this in the future?". Perpetuating questions like these might cause us to never make a choice or even become unsatisfied with the final choice we go for.&nbsp;
 
@@ -19,6 +19,6 @@ This story of a dog (check out the story in video form&nbsp;[here](https://www.y
 
 Sometimes it's just wiser to go for&nbsp;*good enough*. Start with a good enough plan, a good enough draft, a good enough choice, then keep on improving from there. Herbert A. Simon theorized two styles of decision making, namely maximizers and satisficers. Maximizers, like perfectionists, tend to emphasize on picking the choice that is perfect in all aspects. Contrarily, satisficers settle on acceptable options and are happier than maximizers even after a more ideal choice arose after a decision has been made. The sweet spot between these two is where you could assign time to deliberate and act decisively without constantly worrying if that's the right choice.&nbsp;
 
-&nbsp;
+![](/uploads/progress-2.gif){: width="400" height="400"}
 
 &nbsp;
