@@ -13,12 +13,12 @@ Undoubtedly, I personally have been troubled with analysis paralysis and the par
 
 1\. The nova effect
 
-This story of a dog (check out the story in video form&nbsp;[here](https://www.youtube.com/watch?v=oGVhOWqsBWM){: target="_blank" rel="noopener"}) tells us that the quality (good/bad) of an experience could not be determined until later on. An event that initially seems to be a positive one may turn bad and in converse, a negative experience might not be as awful as it seems for it may be a prelude to luck. By having this in mind, we could be free from the shack
+This story of a dog (check out the story in video form&nbsp;[here](https://www.youtube.com/watch?v=oGVhOWqsBWM){: target="_blank" rel="noopener"}) tells us that the quality (good/bad) of an experience could not be determined until later on. An event that initially seems to be a positive one may turn bad and in converse, a negative experience might not be as awful as it seems for it may be a prelude to luck. By having this in mind, the shackles of anxiety and worry might be assuaged when things don't go as planned.&nbsp;
 
 2\. Action before Perfection
 
-Sometimes it's just wiser to go for&nbsp;*good enough*. Start with a good enough plan, a good enough draft, a good enough choice, then keep on improving from there. Herbert A. Simon theorized two styles of decision making, namely maximizers and satisficers. Maximizers, like perfectionists, tend to emphasize on picking the choice that is perfect in all aspects. Contrarily, satisficers settle on acceptable decisions and are happier than maximizers even after&nbsp;
+Sometimes it's just wiser to go for&nbsp;*good enough*. Start with a good enough plan, a good enough draft, a good enough choice, then keep on improving from there. Herbert A. Simon theorized two styles of decision making, namely maximizers and satisficers. Maximizers, like perfectionists, tend to emphasize on picking the choice that is perfect in all aspects. Contrarily, satisficers settle on acceptable options and are happier than maximizers even after a more ideal choice arose after a decision has been made. The sweet spot between these two is where you could assign time to deliberate and act decisively without constantly worrying if that's the right choice.&nbsp;
 
-Harvard students to choose the best picture, the ones who did not have the choice to choose actually was happier
+&nbsp;
 
 &nbsp;
