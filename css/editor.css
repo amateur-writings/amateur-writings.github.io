@@ -1,4 +1,5 @@
-@import url('https://fonts.googleapis.com/css?family=Estonia&display=swap');
+@font-face { font-family: Estonia; 
+  src: url('../font/Estonia-Regular.ttf'); } 
 
 p.poem {
   font-family: "Estonia", Garamond, cursive;
