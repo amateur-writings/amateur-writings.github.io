@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Estonia&display=swap');
+
 p.poem {
   font-family: "Estonia", Garamond, cursive;
   font-size: 43px;
@@ -11,5 +13,3 @@ img.image-center {
   margin-left: auto;
   margin-right: auto;
 }
-
-@import url('https://fonts.googleapis.com/css?family=Estonia&display=swap');
