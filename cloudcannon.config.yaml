@@ -1,0 +1,11 @@
+_enabled_editors:
+    - content
+    - source
+
+_editables:
+  content:
+    numberedlist: true
+    table: true
+    undo: true
+    redo: true
+    removeformat: true
