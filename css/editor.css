@@ -1,5 +1,5 @@
 @font-face { font-family: Estonia; 
-  src: url('../font/Estonia-Regular.ttf'); } 
+  src: url('/assets/fonts/Estonia-Regular.ttf'); } 
 
 p.poem {
   font-family: "Estonia", Garamond, cursive;
