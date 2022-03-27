@@ -1,7 +1,7 @@
 ---
 layout: generic
 title: A Poem about Anger
-date: 2022-01-23 00:00:00
+date: 2022-03-27 00:00:00
 ---
 ![picture to capture hate](/uploads/img-20210621-190315-400x400.jpg "trapped in my own mind"){: .image-center width="400" height="400"}
 {: .align-center}
