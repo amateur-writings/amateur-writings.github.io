@@ -15,6 +15,10 @@ Having this easily-recalled mantra as a fallback concept repositions me as the m
 
 > <u>Life is much more than just avoiding fears.</u>
 
-&nbsp;
+Nothing in life comes without risks. Driving on the road involves the possibility of getting into an accident, falling in love incorporates the chances of being rejected, posting on the Internet might get us ridiculed, even&nbsp;*sleeping*, entails risks of&nbsp;
+
+<font face="Inconsolata, monospace, sans-serif"><span style="font-size: 15.3px; white-space: pre-wrap; background-color: rgb(238, 238, 238);">&lt;a href="https://www.healthline.com/health/can-you-die-from-sleep-apnea"&gt; dying. &lt;/a&gt; </span></font>
+
+<font face="Inconsolata, monospace, sans-serif"><span style="font-size: 15.3px; white-space: pre-wrap; background-color: rgb(238, 238, 238);">​​​​​​​​​​​​​</span></font>
 
 \- meditation&nbsp;
