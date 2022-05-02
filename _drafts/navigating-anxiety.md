@@ -21,4 +21,6 @@ Nothing in life comes without risks. Driving on the road involves the possibilit
 
 <font face="Inconsolata, monospace, sans-serif"><span style="font-size: 15.3px; white-space: pre-wrap; background-color: rgb(238, 238, 238);">​​​​​​​​​​​​​</span></font>
 
+We know we don't go about our day worrying about every little thing. However, some personal fears are bigger than others and might get in the way of how we choose to live our lives.&nbsp;
+
 \- meditation&nbsp;
