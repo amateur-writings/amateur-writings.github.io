@@ -30,3 +30,5 @@ Like running a business, we could manage risks by assessing them. Intentionally 
 > <u>Guided Meditations</u>
 
 The health benefits of meditation have been studied&nbsp;
+
+I have personally found meditation rather calming. Guided by the narrator of the video of my choice, I'd drift off to wherever they take me, visualizing doubts and anxiety washing away from the shore of my consciousness.&nbsp;
