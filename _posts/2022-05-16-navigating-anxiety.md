@@ -29,9 +29,7 @@ When we let these fears take the wheel, our world inevitably shrinks. The things
 
 Like running a business, we could manage risks by assessing them. In order to not let fears be the sole determining factor of the choices we make, ​​​​​**i****ntentionally** selecting the "danger level" that we are comfortable with is vital. For instance, some people do extreme sports because it adds value to their life. Some don't, because the value (or the lack thereof) it brings is not worth the risk or danger. Both are fine as long as they come from deliberation, not pure avoidance.
 
-```html
-As Emma, a licensed therapist in her <a href="https://youtu.be/KGigeZp2Pls"> video </a> (which I should give credit for enlightening me) said, "It's a much greater risk to live your life in fear and reacting only to anxiety and trying to avoid anxiety in such a way that you no longer have a choice in your life. You're not choosing what you want to be doing in your life, you're choosing just to avoid anxiety."
-```
+As Emma, a licensed therapist in her `<a href="https://youtu.be/KGigeZp2Pls"> video </a>` (which I should give credit for enlightening me) said, "It's a much greater risk to live your life in fear and reacting only to anxiety and trying to avoid anxiety in such a way that you no longer have a choice in your life. You're not choosing what you want to be doing in your life, you're choosing just to avoid anxiety."
 
 > <u>Guided Meditations</u>
 
