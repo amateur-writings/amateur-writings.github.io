@@ -15,13 +15,7 @@ Having this easily-recalled mantra as a fallback concept repositions me as the m
 
 > <u>Life is much more than just avoiding fears</u>
 
-Nothing in life comes without risks. Driving on the road involves the possibility of getting into an accident, falling in love incorporates the chances of being rejected, posting on the Internet might get us ridiculed, even&nbsp;*sleeping*, entails risks of&nbsp;
-
-```html
-<a href="https://www.healthline.com/health/can-you-die-from-sleep-apnea"> dying. </a>
-
-<font face="Inconsolata, monospace, sans-serif"><span style="font-size: 15.3px; white-space: pre-wrap; background-color: rgb(238, 238, 238);">​​​​​​</span></font>
-```
+Nothing in life comes without risks. Driving on the road involves the possibility of getting into an accident, falling in love incorporates the chances of being rejected, posting on the Internet might get us ridiculed, even&nbsp;*sleeping*, entails risks of [dying](https://www.healthline.com/health/can-you-die-from-sleep-apnea){: target="_blank" rel="noopener"}.
 
 We know we don't go about our day worrying about every little thing. However, some personal fears are more significant than others and might get in the way of how we choose to live our lives. When we are afraid of something, we might not do certain activities or go to certain places to avoid encountering our fears. For example, being scared of open waters stops one from having fun at the beach, being afraid of heartbreaks hinders one from forming healthy relationships with a potential partner, constantly worrying about failure will deter one from achieving an ambitious goal.
 
@@ -29,7 +23,7 @@ When we let these fears take the wheel, our world inevitably shrinks. The things
 
 Like running a business, we could manage risks by assessing them. In order to not let fears be the sole determining factor of the choices we make, ​​​​​**i****ntentionally** selecting the "danger level" that we are comfortable with is vital. For instance, some people do extreme sports because it adds value to their life. Some don't, because the value (or the lack thereof) it brings is not worth the risk or danger. Both are fine as long as they come from deliberation, not pure avoidance.
 
-As Emma, a licensed therapist in her `<a href="https://youtu.be/KGigeZp2Pls"> video </a>` (which I should give credit for enlightening me) said, "It's a much greater risk to live your life in fear and reacting only to anxiety and trying to avoid anxiety in such a way that you no longer have a choice in your life. You're not choosing what you want to be doing in your life, you're choosing just to avoid anxiety."
+As Emma, a licensed therapist in her [video](https://youtu.be/KGigeZp2Pls){: target="_blank" rel="noopener"} (which I should give credit for enlightening me) said, "It's a much greater risk to live your life in fear and reacting only to anxiety and trying to avoid anxiety in such a way that you no longer have a choice in your life. You're not choosing what you want to be doing in your life, you're choosing just to avoid anxiety."
 
 > <u>Guided Meditations</u>
 
