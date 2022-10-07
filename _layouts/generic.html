@@ -81,8 +81,8 @@
 							<section class="author-box-content">
 								<div class="author-box-label">Author</div>
 								<h5 class="author-box-name">Yu Qi</h5>
-								<p>early 20s, trying to be less dumb and broke each day by writing weekly blogs in my
-									second language </p>
+								{% assign about-page = site.pages | where: "path", "/about" | first %}
+								<p>{{ about-page.content }}</p>
 							</section>
 						</a>
 					</div>
