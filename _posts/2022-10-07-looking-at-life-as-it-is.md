@@ -3,7 +3,7 @@ layout: generic
 title: Looking at life as it is
 date: 2022-10-07 00:00:00
 ---
-Things happening in our lives might not be as good as we ought to be, but sometimes it is not as bad as we thought. Our job as mere human beings is just to face whatever life throws at us, with kindness, patience and courage.&nbsp;
+Things happening in our lives might not be as good as we want them to be, but sometimes it is not as bad as we thought. Our job as mere human beings is just to face whatever life throws at us, with kindness, patience and courage.&nbsp;
 
 **Kindness**
 
