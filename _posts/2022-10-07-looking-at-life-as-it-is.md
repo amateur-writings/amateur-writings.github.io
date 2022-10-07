@@ -7,11 +7,11 @@ Things happening in our lives might not be as good as we want them to be, but so
 
 **Kindness**
 
-Remember whatever happens is *for* our growth, to help us become our better selves, a metamorphosis, one could say. Be kind to ourselves, for we may be hurt, scared and sulking, we could not let us beat ourselves up when they do happen.&nbsp;
+Remember whatever happens is *for* our growth, to help us become better, a metamorphosis, one could say. Be kind to ourselves, for we may be hurt, scared and sulking, we could not let us beat ourselves up when they do happen.&nbsp;
 
 **Patience**
 
-Remember that situations, emotions, and adversities are not here to stay. Be patient even when they seem never-ending. Be patient and understand that this too, shall pass.&nbsp;
+Remember that situations, emotions, and adversities are not here to stay. Be patient even when they seem never-ending. Be tolerant and understand that this too, shall pass.&nbsp;
 
 **Courage**
 
