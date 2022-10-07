@@ -17,4 +17,4 @@ Remember that situations, emotions, and adversities are not here to stay. Be pat
 
 Some days of living require extra effort and fearlessness and we shall ask for that —from the bottom of our souls we will discover, a version of us who will never be conquered by anxiety or fear.
 
-![](/uploads/img-20220912-071843-1.jpeg){: width="2758" height="2763"}
+![](/uploads/blogoct-1.png){: width="400" height="400"}
