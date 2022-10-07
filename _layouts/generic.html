@@ -73,16 +73,16 @@
 
 
 				<footer class="post-footer">
-
+					{% assign about-page = site.pages | where: "path", "about.md" | first %}
 					<div class="authors">
 						<a class="author-box" href="/author/yuqi/">
 							<img class="author-profile-image"
-								src="https://yuqi.ghost.io/content/images/2021/09/IMG_20210417_110649.jpg" alt="Yu Qi">
+								src="{{ about-page.profile-pic }}" alt="Yu Qi">
 							<section class="author-box-content">
 								<div class="author-box-label">Author</div>
 								<h5 class="author-box-name">Yu Qi</h5>
-								{% assign about-page = site.pages | where: "path", "/about" | first %}
-								<p>{{ about-page.content }}</p>
+								
+								<p>{{ about-page.bio }}</p>
 							</section>
 						</a>
 					</div>
