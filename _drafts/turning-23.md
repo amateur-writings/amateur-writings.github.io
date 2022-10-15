@@ -1,7 +1,7 @@
 ---
 layout: generic
 title: 'Turning 23 '
-date: 2022-10-12 00:00:00
+date: 2022-10-15 00:00:00
 ---
 I was petrified of the dark when I was younger.<br><br>The dark signifies uncertainties which for me it meant looming dangers and I was not able to sleep alone in total darkness until merely a year ago. Being a descendant of *homo sapiens* that were historically hyperaware of possible dangers in the dark which led to using fire and electricity to illuminate the night, the unknowns of pitch blackness stir uneasiness and panic in me that nothing else in the world could.&nbsp;<br><br>Symbolically or literarily, darkness tends to represent evil, hazards, unknowns & bad things that could harm us. Uncertainties come hand in hand with being in the dark, which I'm certainly not a fan of.<br><br>Turning 23 this year feels entirely different. I'm imagining myself walking on a path called life, with roads unlit ahead. To date, I have been short-sighted because university had put up street lights for me to walk this route safely for five years and I was content. I was so sure about the career I wanted to pursue when I graduate until..... I'm currently not. This year, the inevitable unlit path is just less than a year away from now, and my metaphorical handheld flashlight is rusty after being unutilized since high school. Considering the fact that I was just a baby (17 year old) when I last used it, I am still an entire amateur in light-shining skills that are supposed to be extremely crucial in deciding my life trajectory.
 
