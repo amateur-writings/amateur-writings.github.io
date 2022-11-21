@@ -24,7 +24,7 @@ It is a no-brainer to be distracted, at least we are blissful\! but for how long
 
 *"A gramme (of soma) is better than a damn",* wrote Aldous Huxley in his dystopian novel 'Brave New World'. Soma is a drug that kills all sadness and worry, our lives could be pain-free\! A condition which is putatively considered the best state one could ever live in. But is it really what we want?&nbsp;
 
-A lot of the world's greatest thinkers think otherwise, many believe pain is part of life's meaning. [Bloom](https://www.theguardian.com/lifeandstyle/2022/jan/23/hedonism-is-overrated-to-make-the-best-of-life-there-must-be-pain-says-yale-professor){: target="_blank" rel="noopener"}&nbsp;wrote humans willingly experience pain, anxiety, and struggle because we see value in chosen suffering while [Frankl](https://www.goodreads.com/quotes/531847-if-there-is-meaning-in-life-at-all-then-there){: target="_blank" rel="noopener"} preached about the incompleteness of life without suffering and the meaning behind it.&nbsp;
+A lot of the world's greatest thinkers think otherwise, many believe pain is part of life's meaning. [Bloom](https://www.theguardian.com/lifeandstyle/2022/jan/23/hedonism-is-overrated-to-make-the-best-of-life-there-must-be-pain-says-yale-professor){: target="_blank" rel="noopener"}&nbsp;wrote that humans willingly experience pain, anxiety, and struggle because we see value in chosen suffering while [Frankl](https://www.goodreads.com/quotes/531847-if-there-is-meaning-in-life-at-all-then-there){: target="_blank" rel="noopener"} preached about the incompleteness of life without suffering and the meaning behind it.&nbsp;
 
 ---
 
