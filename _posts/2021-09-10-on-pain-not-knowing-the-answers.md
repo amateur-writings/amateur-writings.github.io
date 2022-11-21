@@ -28,4 +28,4 @@ A lot of the world's greatest thinkers think otherwise, many believe pain is par
 
 ---
 
-I shall continually remind myself of the need to wholeheartedly feel the pains in life for my growth and betterment while at the same time taking up the reins to control what is governable, which are — my thoughts & actions.&nbsp;
+I shall continually remind myself of the need to wholeheartedly feel the pains in life for my growth and betterment. This in turn allows me to be the master of my emotions while at the same time taking up the reins to control what is governable, which are — my thoughts & actions.&nbsp;
