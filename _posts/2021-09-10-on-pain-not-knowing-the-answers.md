@@ -1,7 +1,7 @@
 ---
 layout: generic
 title: On pain & not knowing the answers
-date: 2021-09-10 00:00:00
+date: 2022-11-22 00:00:00
 ---
 ![](/uploads/img-20221121-211136-01-400x400.jpeg){: width="400" height="400"}<br>A seemingly lonely Jupiter in the night sky of 21st Nov 2022
 {: .align-center}
@@ -20,7 +20,7 @@ It is a no-brainer to be distracted, at least we are blissful\! but for how long
 
 ---
 
-> "..there is always soma, delicious soma, half a gramme for a half-holiday, a gramme for a week-end, two grammes for a trip to the gorgeous East, three for a dark eternity on the moon..."
+> "..there is always soma, delicious soma, half a gramme for a half-holiday, a gramme for a week-end, two grammes for a trip to the gorgeous East, three for a dark eternity on the moon…"
 
 *"A gramme (of soma) is better than a damn",* wrote Aldous Huxley in his dystopian novel 'Brave New World'. Soma is a drug that kills all sadness and worry, our lives could be pain-free\! A condition which is putatively considered the best state one could ever live in. But is it really what we want?&nbsp;
 
