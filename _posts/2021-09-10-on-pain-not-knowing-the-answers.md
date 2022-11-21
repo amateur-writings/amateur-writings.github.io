@@ -1,7 +1,7 @@
 ---
 layout: generic
 title: On pain & not knowing the answers
-date: 2022-11-22 00:00:00
+date: 2022-11-21 00:00:00
 ---
 ![](/uploads/img-20221121-211136-01-400x400.jpeg){: width="400" height="400"}<br>A seemingly lonely Jupiter in the night sky of 21st Nov 2022
 {: .align-center}
