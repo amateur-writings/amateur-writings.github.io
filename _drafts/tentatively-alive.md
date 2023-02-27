@@ -10,3 +10,7 @@ lup dup
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; lup dup
 
 intense heartbeats, the quickness of the breath&nbsp;
+
+the physical manifestations of being alive
+
+Sometimes I relish in the fact that
