@@ -11,5 +11,5 @@ bio: |
   about being human -
   and all its absurdities
   </pre>
-profile-pic: /uploads/yuqi-profile-pic.png
+profile-pic: /uploads/photo_yuqi_blog.jpg
 ---
